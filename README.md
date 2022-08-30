@@ -1,4 +1,4 @@
-Ola! me chamo Paulo Kauã hehehe
+Ola! me chamo Paulo Kauã hehehe<3
 - 🔭 Futuro Front end jr
 - 🌱 Sempre estudando Html5, Css3 e JavaScript
 - 🤔 Promouns:ele/Dele
